@@ -40,7 +40,7 @@ print(f"Size is {ReadableSize(size).compute()}")
 
 ## Contributing
 
-Whether reporting bugs, discussing improvements and new ideas or writing extensions: Contributions to FlashDB are welcome! Here's how to get started:
+Whether reporting bugs, discussing improvements and new ideas or writing extensions: Contributions are welcome! Here's how to get started:
 
 1. Check for open issues or open a fresh issue to start a discussion around a feature idea or a bug
 2. Fork the repository on Github, create a new branch off the master branch and start making your changes (known as GitHub Flow)
